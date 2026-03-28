@@ -30,4 +30,4 @@ Step 4: Example Input:-
 
 
 Output:
-Predicted Marks will be displayed.
+The predicted marks will be displayed.
